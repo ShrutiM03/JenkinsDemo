@@ -9,7 +9,8 @@ namespace JenkinsDemo
     class Program
     {
         static void Main(string[] args)
-        {    Console.Read
+        {
+            Console.WriteLine("hii");
             Console.WriteLine("hello");
         }
     }
